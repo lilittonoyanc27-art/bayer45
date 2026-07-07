@@ -1,0 +1,6 @@
+{
+  "name": "DJ Español - El o La",
+  "description": "Интерактивная музыкальная DJ-игра для изучения испанского рода существительных (El и La) на армянском и русском языках.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
